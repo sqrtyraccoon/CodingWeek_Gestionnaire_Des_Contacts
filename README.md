@@ -1,6 +1,6 @@
 # CodingWeek_Gestionnaire_Des_Contacts
 Projet de groupe:
-  ---- Gestionnaire de contact ----
+  Gestionnaire de contact
 
 Créer des fonctions qui permettent:
   1. d'ajouter des contacts,
