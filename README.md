@@ -11,7 +11,7 @@ contact:
   2. num de tel
 <<Bonus: afficher tt les contacts>>
 
-//------------------------------------------//
+------------------------------------------
 Fonctions:
 1. Afficher
 2. Ajouter
