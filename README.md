@@ -9,7 +9,8 @@ Créer des fonctions qui permettent:
 contact:
   1. nom
   2. num de tel
-<<Bonus: afficher tt les contacts>>
+
+Bonus: afficher tt les contacts
 
 ------------------------------------------
 Fonctions:
